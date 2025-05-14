@@ -1,0 +1,11 @@
+FaceSerum,Neutro,350,900.0,USA
+HerbalToner,Biotiq,171,300.0,India
+LipBalms,Nivea,250,120.0,Germany
+Moisturizer,Olay,130,500.0,USA
+FacePack,WOW,100,350.0,India
+Anti-AgeCream,Lotus,104,650.0,India
+RosewaterSpray,Dabur,200,80.0,India
+FaceSheetMask,Ceta,160,150.0,SouthKorea
+AloeNightGel,Troy,140,400.0,India
+VitaminEOil,Boly,90,600.0,UK
+AppleWash,Apple,100,1000.0,France
